@@ -17,7 +17,7 @@ options(max.print=1000000)
 # optimizer to use. SLSQP is good for ordinal data
 mxOption(key = "Default optimizer", value = "SLSQP")
 
-path <- "C:/Users/leona/ownCloud/uni/2021_MA_thesis/analysis/"
+path <- "/analysis/"
 
 # folder to save the results to
 path_out <- paste0(path, "out/")
