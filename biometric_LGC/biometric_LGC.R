@@ -25,7 +25,7 @@ path_out <- paste0(path, "out/")
 # Repeated measurement. See below how variables should be named (i.e. w indicates wave and T indicating twin order)
 var <- "pop0100"
 
-# ordinal levels, will result in -1 thresholds
+# ordinal levels, will result in length(levels)-1 thresholds
 levels = c(1, 2, 3, 4)
 
 # how many epochs?

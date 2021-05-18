@@ -1,1 +1,1 @@
-This is a collection of R and OpenMx scripts that I wrote which might be helpful for beginners. I'm going to start with a biometric latent growth curve script which I used for my thesis. The script and a description can be found in the folder `biometric_LGC`
+This is a collection of R and OpenMx scripts that I wrote which might be helpful for beginners. I'm going to start with a biometric latent growth curve script which I used for my thesis. The script and a description can be found in the folder `biometric_LGC`.
